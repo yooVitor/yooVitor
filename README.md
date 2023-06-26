@@ -1,16 +1,20 @@
-### Hi there 👋
+### Oi, eu sou o Vitor!
 
-<!--
-**yooVitor/yooVitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- Estou interessado na parte front-end da programação
+- Atualmente estudo HTML, CSS e JavaScript
+- Futuramente pretendo iniciar estudos no back-end e me tornar um desenvolvedor full-stack
+ 
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/yoovitor">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yoovitor&show_icons=true&theme=dracula" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoovitor&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+</a>
+
+<div style='display: inline-block'><br/>
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
