@@ -9,8 +9,8 @@
 ##
 
 <a href="https://github.com/yoovitor">
-  <img height="180em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=yoovitor&show_icons=true&theme=dracula" />
-  <img height="180em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoovitor&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=yoovitor&show_icons=true&theme=dracula" />
+  <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoovitor&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
 </a>
 
 <div style='display: inline-block'><br/>
